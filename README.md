@@ -1,4 +1,4 @@
-# TensorFlow-tfjs
+# TensorFlow-model
 
 This is a group project which we are asked to do by our college.
 The topic of this project is Real Camera Image Detection.
